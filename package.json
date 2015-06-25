@@ -1,0 +1,29 @@
+{
+  "name": "express-js-benchmark",
+  "version": "1.0.0",
+  "description": "benchmarking version of express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cigolpl/express-api-benchmark.git"
+  },
+  "keywords": [
+    "express.js",
+    "benchmark",
+    "api",
+    "restful"
+  ],
+  "author": "Mateusz Rzepa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cigolpl/express-api-benchmark/issues"
+  },
+  "homepage": "https://github.com/cigolpl/express-api-benchmark",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0"
+  }
+}
